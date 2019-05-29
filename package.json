@@ -1,0 +1,23 @@
+{
+  "name": "apicra-terminal-animation",
+  "version": "1.0.0",
+  "description": "Terminal animation by terminalizer",
+  "main": "index.js",
+  "dependencies": {
+    "terminalizer": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apicra/terminal-animation.git"
+  },
+  "author": "Tom Sapletta <t@sapletta.com> (https://tom.sapletta.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apicra/terminal-animation/issues"
+  },
+  "homepage": "https://github.com/apicra/terminal-animation#readme"
+}
